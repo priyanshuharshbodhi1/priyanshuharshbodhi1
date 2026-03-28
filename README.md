@@ -1,4 +1,4 @@
-# I'm Priyanshu HarshBodhi 👋
+### I'm Priyanshu HarshBodhi 👋
 
 I'm a hustler & third door thinker. It's my goal to build a **Generational Company**, so for the past 2 years I have been optimizing everything to become a perfect founder.
 
