@@ -11,9 +11,10 @@ I'm like reading History, Economics, Political Science & Philosophy etc.
 ---
 
 ### 🏆 Highlights
-- 🥈 **$7,500** — 2nd Place, Elastic Agent Builder Hackathon  
-- 🥉 **$5,000** — 3rd Place, Google Cloud Run Hackathon (Best GPU Use)  
-- ⚖️ Built **JURIS** — Legal Research AI Agent(compatitor to Manupatra & SCC Online), 22 years of High Court & Supreme Court judgments  
+- 🥈 **$5,000** — 2nd Place, Elastic Agent Builder Hackathon  
+- 🥈 **Meta rayban + $5,000** — 2nd Place, CopilotKit Generative UI Global Hackathon, 2026
+- ⚖️ Built **JURIS** — Legal Research AI Agent(compatitor to Manupatra & SCC Online), 22 years of High Court & Supreme Court judgments
+- ⚖️ Interned @Google Summer of Code(GSoC) in Rocket.Chat 
 - 📄 **Research**: *Domain Adaptation for Underwater Images* — submitted to ICIP '26 & ECCV '26  
 
 ---
@@ -24,4 +25,5 @@ TypeScript · Javascript · Next.js · Python · React · Node.js · PostgreSQL 
 ---
 
 📍 New Delhi → San Francisco (soon)  
-📬 priyanshuqpwp@gmail.com · [LinkedIn](https://linkedin.com/in/priyanshu-harshbodhi)
+📬 priyanshuqpwp@gmail.com · [LinkedIn](https://linkedin.com/in/priyanshu-harshbodhi) · [Twitter/X](https://x.com/PriyanHB) 
+   
